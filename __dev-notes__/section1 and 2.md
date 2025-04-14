@@ -22,4 +22,8 @@ This is live on vercel to preview.
 
 ## Setup Project and Deps
 
--basic setup to start the project
+- basic setup to start the project
+- cleaned up home page
+- removed geist and mono for inter font
+- added a new `globals.css` and `favicon.ico` files to `app` dir and some other assets from resources zip
+-
